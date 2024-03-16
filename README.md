@@ -4,4 +4,4 @@ Just for demo.
 
 This is the edit from the readme-edits for demonstration.
 
-- adding a new file
+- adding a new file, by Gernot
