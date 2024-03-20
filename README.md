@@ -3,6 +3,10 @@ Software Development course materials are available here.
 Just for demo.
 
 This is the edit from the readme-edits for demonstration.
+
+- adding a new file, by Gernot
+
+******************
 I guess you also heard that quote "Do or Die" 
 I didn’t like sour flavor
 German word "genaú" means exactly :)
