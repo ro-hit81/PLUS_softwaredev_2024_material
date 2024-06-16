@@ -7,7 +7,7 @@ Instead of cloning the whole repo for a few files, I decided to download the req
 1. Downloaded files are moved to the required directory. I intend to keep the environment in this director:
     './environment_file/'.
 
-    ![alt text](screenshots/1.jpg)
+    ![alt text](images/1.jpg)
 
 2. In the terminal, go to the directory where the downloaded files were moved.
 
@@ -17,14 +17,14 @@ Instead of cloning the whole repo for a few files, I decided to download the req
     ```
    This will create an environment with the name specified in 'name'.
 
-    ![alt text](screenshots/software_dev_v1.jpg)
+    ![alt text](images/software_dev_v1.jpg)
 
 
 4. Similarly, using the 'software_dev_v2.yml' file, another environment is created as follows:
     ```
     conda env create -f software_dev_v2.yml
     ```
-    ![alt text](screenshots/software_dev_v2.jpg)
+    ![alt text](images/software_dev_v2.jpg)
 
 
 # PLUS_softwaredev_2024_materials
